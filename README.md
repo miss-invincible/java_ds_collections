@@ -6,3 +6,9 @@ This is a very high level diagram of Java collections and relationship of differ
 
 High level relationship between map interface and implementations.
 ![java map](https://github.com/miss-invincible/java_ds_collections/blob/master/java_map.jpeg?raw=true)
+
+Completexities of various types of collections-
+
+| Collection | Insertion | Add (at an index) | Remove | Get | Find
+----------------------------------------------------------------
+ArrayList | 
